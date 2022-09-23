@@ -7,7 +7,7 @@
 >
 ># 프로젝트 진행 팀원
 >![finalProjectMember](https://user-images.githubusercontent.com/102140367/191911258-c12f2580-928c-4ce0-b88e-1988826834a5.png)
-># 프로젝트 개요 : CRUD기능을 기반으로 시작한 웹 서비스에 Text Classificatioin Model을 접목해 사용자가 작성한 일기의 감정을 추출해 시각화하는 것이 목표인 서비스로써,
+>프로젝트 개요 : CRUD기능을 기반으로 시작한 웹 서비스에 Text Classificatioin Model을 접목해 사용자가 작성한 일기의 감정을 추출해 시각화하는 것이 목표인 서비스로써,
 >             Cloud Computing System을 적극적으로 활용 함.
 >             
 ># 개발 기간: 2022.07.18 ~ 2022.9.15  
