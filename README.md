@@ -1,4 +1,6 @@
 ### Senti Diary
+><img width="918" alt="로그인 화면" src="https://user-images.githubusercontent.com/102140367/191909717-7ec08a47-1748-4c09-a0c4-c155fed280d4.png">
+>
 >KoBERT Model 기반 일기 감정 분석 웹 서비스
 >
 >프로젝트 진행 팀원 : 박예찬(Back-End, Deploy Model), 김권웅(Frong-End)
