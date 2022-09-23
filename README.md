@@ -1,4 +1,4 @@
-###Senti Diary
+### Senti Diary
 >KoBERT Model 기반 일기 감정 분석 웹 서비스
 >
 >프로젝트 진행 팀원 : 박예찬(Back-End, Deploy Model), 김권웅(Frong-End)
