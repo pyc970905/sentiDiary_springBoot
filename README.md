@@ -18,7 +18,7 @@
 >
 >2022.07.18 ~ 2022.9.15  
 >
-># 술 스택
+># 사용 술 스택
 > 
 >Java 11 / Spring Boot / Gradle / Spring Data JPA / Flask / AWS Cloud Computing System( EC2, RDS, Sagemaker, S3) 
 >MySQL / Spring Security / React.js / JWT
