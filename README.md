@@ -14,9 +14,12 @@
 >
 >Cloud Computing System을 적극적으로 활용 함.
 >             
-># 개발 기간: 2022.07.18 ~ 2022.9.15  
+># 개발 기간
 >
->기술 스택:  
+>2022.07.18 ~ 2022.9.15  
+>
+>기술 스택
+> 
 >Java 11 / Spring Boot / Gradle / Spring Data JPA / Flask / AWS Cloud Computing System( EC2, RDS, Sagemaker, S3) 
 >MySQL / Spring Security / React.js / JWT
 >  
